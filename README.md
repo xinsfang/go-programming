@@ -1,5 +1,7 @@
 # Learn How To Code: Google's Go (golang) Programming Language
 
+https://docs.google.com/document/d/1WoXTi1JxtjecqNXnJwmRH9bhqOOwJddEHuG2Bfof33Q/edit
+
 This is the compendium material for Todd McLeod's course Learn How To Code: Google's Go (golang) Programming Language, available online at [GreaterCommons.com](https://greatercommons.com/).  
   
 ## Table of Contents
